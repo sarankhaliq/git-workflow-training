@@ -1,1 +1,1 @@
-# GIt WorkFlow Training
+# Git WorkFlow Training
